@@ -9,3 +9,4 @@ klasörün yolunda terminalimizi acmis oluruz
 7-comit stora(yani versiyon olusturdugumuz yer)daki versiyonlarimizi görmek icinde git log --oneline komutunu kullaniriz
 8-olusturmuz oldugumuz versiyonu github a gönderebilmek icin git push <github repository adresi>
 yada devamli kullanacagimiz repo ise git remote add origin <master adresi>/git push -u master komutuyla github a gönderebiliriz
+9-Github a gönderdigimiz kodlarida baska bir calisma ortamina cekebilmek icin git pull <github repo adresi>yazarak cekebiliriz
